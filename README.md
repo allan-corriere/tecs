@@ -4,7 +4,7 @@ This is my work / projects from the book.
 ## Chapter 1 project
 Not: OK
 And: OK
-Or: NOPE
+Or: OK
 Xor: NOPE
 Multiplexor: NOPE
 Demultiplexor: NOPE
