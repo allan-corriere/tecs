@@ -5,7 +5,7 @@ This is my work / projects from the book.
 Not: OK
 And: OK
 Or: OK
-Xor: NOPE
+Xor: OK
 Multiplexor: NOPE
 Demultiplexor: NOPE
 Multibit Not: NOPE
