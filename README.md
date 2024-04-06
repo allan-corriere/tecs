@@ -2,14 +2,14 @@
 This is my work / projects from the book.
 
 ## Chapter 1 project
-Not: OK
-And: OK
-Or: OK
-Xor: OK
-Multiplexor: OK
-Demultiplexor: NOPE
-Multibit Not: NOPE
-Multibit And: NOPE
-Multibit Or: NOPE
-Multibit Multiplexor: NOPE
-Multi-Way Gates: NOPE
+Not: OK  
+And: OK  
+Or: OK  
+Xor: OK  
+Multiplexor: OK  
+Demultiplexor: OK  
+Multibit Not: NOPE  
+Multibit And: NOPE  
+Multibit Or: NOPE  
+Multibit Multiplexor: NOPE  
+Multi-Way Gates: NOPE  
