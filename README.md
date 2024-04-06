@@ -6,7 +6,7 @@ Not: OK
 And: OK
 Or: OK
 Xor: OK
-Multiplexor: NOPE
+Multiplexor: OK
 Demultiplexor: NOPE
 Multibit Not: NOPE
 Multibit And: NOPE
