@@ -8,7 +8,7 @@ Or: OK
 Xor: OK  
 Multiplexor: OK  
 Demultiplexor: OK  
-Multibit Not: NOPE  
+Multibit Not: OK  
 Multibit And: NOPE  
 Multibit Or: NOPE  
 Multibit Multiplexor: NOPE  
